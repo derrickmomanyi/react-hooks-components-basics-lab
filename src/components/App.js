@@ -19,9 +19,9 @@ function Home() {
 {/* write an <About> component here */}
 function About(){
   return (
-    <>
-    <h1 id="about">About</h1>
-    </>
+    <div>
+    <h2 id="about">About</h2>
+    </div>
   )
 }
 
